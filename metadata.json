@@ -1,0 +1,5 @@
+{
+  "name": "AI Study Buddy",
+  "description": "An advanced AI-powered study assistant that allows you to upload documents or images, ask questions, and receive spoken answers. It integrates text generation, vision understanding, and text-to-speech technologies to create a comprehensive learning tool.",
+  "requestFramePermissions": []
+}
